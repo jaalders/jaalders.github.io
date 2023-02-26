@@ -1,3 +1,7 @@
+- name: GitHub
+  link: 'https://github.com/jaalders'
+  social_icon: github-square
+  new_window: true
 - name: Twitter
   link: 'https://twitter.com/jeremyaalders'
   social_icon: twitter-square
