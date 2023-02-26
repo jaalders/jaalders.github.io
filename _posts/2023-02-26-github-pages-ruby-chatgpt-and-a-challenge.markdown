@@ -3,7 +3,7 @@ title: GitHub Pages, Ruby, chatGPT, and a challenge!
 date: 2023-02-26
 categories: blog
 ---
-<img src="/images/fulls/robot.jpg" class="image">
+<img src="/images/fulls/robot.jpg" class="image fit-70">
 
 > I asked and AI image creator to make an image using the phrase "robot physically smashing a ruby gem" ... not too shabby.
 
