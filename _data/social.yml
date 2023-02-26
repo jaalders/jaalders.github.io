@@ -1,0 +1,12 @@
+- name: Twitter
+  link: 'https://twitter.com/jeremyaalders'
+  social_icon: twitter-square
+  new_window: true
+- name: Linkedin
+  link: 'https://linkedin.com/in/jeremyaalders'
+  social_icon: linkedin-square
+  new_window: true
+- name: RSS
+  link: '/feed.xml'
+  social_icon: RSS
+  new_window: true

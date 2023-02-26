@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% if jekyll.environment == 'production' %}
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEMKGX6XGJ"></script>
+			<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-QEMKGX6XGJ');
+			</script>
+		{% endif %}
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="{{ site.author.name }}">
+		<meta name="description" content="{{ site.description }}">
+		<meta http-equiv="content-language" content="{{ site.locale }}" />
+		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+
+		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
+		<link rel="stylesheet" href="/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+
+    {% seo %}
+    {% feed_meta %}
+
+	</head>
+
+	<body id="top">
+    <header id="header">
+      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
+      <h1 class="editable">
+	<strong>Welcome! My name is <a href="/">Jeremy Aalders</a></strong> and I hail from the beautiful city of Halifax, Nova Scotia. When I'm not buried in lines of code, you can often find me sipping on a hot cup of caffeine and enjoying the stunning scenery that this province has to offer.<br><br>
+   	As an avid learner, I am constantly seeking out new challenges and opportunities to grow my skills in the world of coding. Through this blog, I hope to share my experiences, tips, and insights as I navigate the exciting and ever-evolving field of programming.
+      </h1>
+    </header>
+
+    {{ content }}
+
+    <footer id="footer">
+      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
+      <ul class="icons">
+        {% for account in site.data.social %}
+					<li>
+						<a {% if account.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=account.link %}" {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
+              <span class="label">{{ account.name }}</span>
+						</a>
+					</li>
+				{% endfor %}
+        {% if site.author.email %}
+        <li>
+          <a href="mailto:{{ site.author.email }}" class="icon fa-envelope-o">
+            <span class="label">Email</span>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+      <ul class="copyright">
+          <li>&copy; Jeremy Aalders - {{ 'now' | date: "%Y" }}</li>
+      </ul>
+    </footer>
+
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/jquery.poptrox.min.js"></script>
+		<script src="/js/skel.min.js"></script>
+		<script src="/js/util.js"></script>
+		<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+		<script src="/js/main.js"></script>
+
+	</body>
+</html>
