@@ -1,14 +1,19 @@
 ---
+layout: post
 title: GitHub Pages, Ruby, chatGPT, and a challenge!
 date: 2023-02-26
 categories: blog
+excerpt_separator: <!--excerpt-->
 ---
-<img src="/images/fulls/robot.jpg" class="image fit-70">
+
+<img src="/images/fulls/robot.jpg" class="image fit-70"> 
 
 > I asked and AI image creator to make an image using the phrase "robot physically smashing a ruby gem" ... not too shabby.
 
 ## GitHub Pages
 I finally got around to making a GitHub Pages blog. It's been an interesting time thus far because, I know things for me aren't always immediately intuitive and sometimes there is a bit of a grind to make things work. I often would joke with colleagues and say that for every day of work they put in, I would have to put in two. Just to have the retention they would overall. 
+
+<!--excerpt-->
 
 ## Ruby Strikes again!
 Ruby threw me a curve ball. You follow along with installation guides and they kind of assume that you're starting fresh. I however at some point in my past decided to install Ruby previously within WSL. So it kind of made it tricky figuring out what version I needed for what bundler and whatnot since a version was already installed. Needless to say, I have never been a fan of Ruby. I still am not.
