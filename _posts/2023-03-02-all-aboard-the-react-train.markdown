@@ -22,3 +22,5 @@ I have updated my node version to the latest LTS version and I am ready to go in
 I am really hoping that React will tie in some of the neat TS and like ES6 functions that I have used before in the past. I should do a whole article on those actually to really help my understanding there as well..
 
 We're going to have to add Node.js to our learning list there too depending on the amount of learning involved there. I have used it before for JWT, so perhaps it all comes down to how much I decide to use it.
+
+EDIT: So, remember how I said that nothing seems to easily come for me. Well turns out that if my DNS provider wasn't going to have issues GitHub's Actions pipelines are reporting an issue right after I pushed this post prior to the edit. I gotta say, this is pretty lame. I am now 2/2 on this and I haven't even really dug into the meat and potatoes of all this.
