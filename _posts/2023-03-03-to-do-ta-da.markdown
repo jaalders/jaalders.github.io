@@ -11,7 +11,7 @@ excerpt: <img src="/images/fulls/todolist.jpg" class="image fit"> I know it's be
 > So I guess the site that I was using before for my blog post hero images went the way of the paywall. Fortunately, the same folks who offer the great service of chatGPT also offer services through DALL-E 2 ... I had no clue honestly.
 
 ## This is probably going to be a quick blog post
-I know it's been a couple of days since my last post. I have not given up on my challenge at all. In fact, (here is a link to my react to-do app)[https://github.com/jaalders/react-to-do]. It's definitely nothing crazy and I certainly have a bit to learn about states and whatnot, but understanding the little things like what the `...` operator does in advance is a big help. Feel free to fork my repo and give it a whirl!
+I know it's been a couple of days since my last post. I have not given up on my challenge at all. In fact, [here is a link to my react to-do app](https://github.com/jaalders/react-to-do). It's definitely nothing crazy and I certainly have a bit to learn about states and whatnot, but understanding the little things like what the `...` operator does in advance is a big help. Feel free to fork my repo and give it a whirl!
 
 ## Not super feeling the theme
 Many moons ago before I even had my GitHub Pages repo set up, I had this theme picked out. I don't know why, but I knew when I finally did get around to it (I think it's been years??) That I was going to use this theme. And well, I did. Don't get me wrong. It's great and it does what I need it to do, but I don't find it super slick and it really only stands out on really, really big monitors, 27" or larger big. I don't know if I want to have this same styling or if perhaps I can find something slick to transition over to.
