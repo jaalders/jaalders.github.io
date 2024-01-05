@@ -6,8 +6,8 @@ categories: blog
 excerpt: <img src="/images/fulls/spr.jpg" class="image fit"> Along the way since I have been learning Vue I have been dealing with the concepts of emits and props. These are definitely new to me and it's something that I have been trying to actively apply in my code to allow me to have two-way communication between components. My brain works in weird ways, but the correlation between how Vue operates and how this scene illistrates flow of hierarchy. At least you can feel good knowing this was wrote by a human with a very, very weird thought process.
 ---
 
-<img src="/images/thumbs/spr.jpg" class="image fit"> 
-![Image taken from Saving Private Ryan - DreamWorks / Paramount Pictures - 1998]
+<img src="/images/thumbs/spr.jpg" class="image fit" title="Image taken from Saving Private Ryan - DreamWorks / Paramount Pictures - 1998"> 
+
 
 > Gripes go up, shit rolls down, or in this case, emits go up and props roll down.
 
