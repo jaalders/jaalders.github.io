@@ -3,14 +3,15 @@ layout: post
 title: Gripes go up, s#!t rolls down!
 date: 2024-01-05
 categories: blog
-excerpt: <img src="/images/fulls/spy.jpg" class="image fit"> Along the way since I have been learning Vue I have been dealing with the concepts of emits and props. These are definitely new to me and it's something that I have been trying to actively apply in my code to allow me to have two-way communication between components. My brain works in weird ways, but the correlation between how Vue operates and how this scene illistrates flow of hierarchy. At least you can feel good knowing this was wrote by a human with a very, very weird thought process.
+excerpt: <img src="/images/fulls/spr.jpg" class="image fit"> Along the way since I have been learning Vue I have been dealing with the concepts of emits and props. These are definitely new to me and it's something that I have been trying to actively apply in my code to allow me to have two-way communication between components. My brain works in weird ways, but the correlation between how Vue operates and how this scene illistrates flow of hierarchy. At least you can feel good knowing this was wrote by a human with a very, very weird thought process.
 ---
 
 # Gripes go up, shit rolls down, or in this case, emits go up and props roll down.
 
 You ever watch Saving Private Ryan? Remember that scene when the company is complaining to Tom Hanks and they ask him why he never gripes, and he says the following:
 
-![Image taken from Saving Private Ryan - DreamWorks / Paramount Pictures - 1998](https://i.pinimg.com/originals/7f/55/f2/7f55f21ff25d2d86efb5d454c4cc8729.jpg)
+<img src="/images/fulls/spr.jpg" class="image fit"> 
+![Image taken from Saving Private Ryan - DreamWorks / Paramount Pictures - 1998]
 
 Along the way since I have been learning Vue I have been dealing with the concepts of emits and props. These are definitely new to me and it's something that I have been trying to actively apply in my code to allow me to have two-way communication between components. My brain works in weird ways, but the correlation between how Vue operates and how this scene illistrates flow of hierarchy. At least you can feel good knowing this was wrote by a human with a very, very weird thought process.
 
