@@ -15,7 +15,7 @@ You ever watch Saving Private Ryan? Remember that scene when the company is comp
 
 Along the way since I have been learning Vue I have been dealing with the concepts of emits and props. These are definitely new to me and it's something that I have been trying to actively apply in my code to allow me to have two-way communication between components. My brain works in weird ways, but the correlation between how Vue operates and how this scene illistrates flow of hierarchy. At least you can feel good knowing this was wrote by a human with a very, very weird thought process.
 
-This example I am providing assumes you're on Vue3 using composition API. It's fairly simple all things considered, and I am sure I could optimize thing further (perhaps I will revisit this post again in the future with an example 2.0) but for now this will show what is possible. I will also say, this code will work as is, but ideally you will have Vue DevTools installed or some other add-on that will allow you to see the props update as you click through the example to better illustrate this example.
+This example I am providing assumes you're on Vue3 using composition API. It's fairly simple all things considered, and I am sure I could optimize thing further (perhaps I will revisit this post again in the future with an example 2.0) but for now this will show what is possible. I will also say, this code will work as is, but ideally you will have Vue DevTools installed or some other add-on that will allow you to see the props update as you click through to better illustrate this example.
 
 Lets get into the examples!
 
