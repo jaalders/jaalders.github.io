@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samwise the coder. Defender of Frodo and defender of DRY!
-date: 2024-01-05
+date: 2024-01-11
 categories: blog
 excerpt: <img src="/images/fulls/frodo.jpg" class="image fit"> Alright, in all seriousness I wanted to actually continue the Lord of the Rings theme throughout the blog post, but I figured it would diverge from the meat and "po-tay-toes" of the post. (last one I swear)
 ---
