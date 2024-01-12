@@ -123,6 +123,8 @@ Or perhaps you're wondering is there a reason why `const listClicks = clickListe
 
 I understand I've been doing a slew of explaining and certainly even more typing. So, what I have done is create a vue sandbox with the code involved above so you can test this code right away and see if piques your interest further!
 
+[Vue clickCapture Sandbox](https://play.vuejs.org/#eNqtVVFvmzAQ/is39pBMSkmnSnugaaa1irRNWzt13VPpA4WDuAUb2YYkSvPfd7aBBBR1m7Q8tPjuu/P3fdjH1vtUln5doRd4MxVLVmpQqKsS8ohnF6GnVejNQ86KUkgNl5XWgt9whFSKAkb+tIuYJqPzAfJuJQZIigyQW4hzFj9/Y0ojRwm7rsLGr6JSVxJ9rUxNyGPBlYac0FcmreCiXz9+Z2GzqVND3GmhsSjzSCOtAGYJq6kmUor0UTsdMaoLPVB6kyPFrGKg32yvt8U/2giBp32MUTrEdBAXAJZQsoEvJSJ1GZbMXRpsfjZ14bZNObeSIeKb1RIlghbwiBnjb2bT0kmbkrZOZFcH9QlLaZe9a36OPNNLmMMpbbrdHhq62w3bzaYHBtLSGgUqFiUmFuh3NsLWbbpiiV4G8OH0tFyfg4s9RvFzJkXFk5NY5EIG8DaOY3pdJpkwRTtsAkhzXDexKGcZP2G0uQogRq5RNpmnSmmWbqgPBbnuZXeWUeN5Q6eIJPkUwHtDpwHRETE6SIA3oXNOrVKW+U9KcLoMts4cj6JkOcqbUjM6eKEXtB1DL8pzsfpqY1pWOGnj8RLj5yPxJ7U2sdD7IVGhrOn9dzlN/FC79OLnNa7puUsWIqlyQr+SvEUl8spwdLBLMploH+As2y/2yjGe3anFmoxTrShD1Npi8aFHV/TqFel7umf+WWPnjlwc3Fjysbvkt5hOQJo/gn+nM6AxMY+/eOEW3b1vpkPIcW1L04rHhsHwmgemJR1FSXLuH+aOnJsOFvmZkEJuaD7Qrnvc+P7BTQgYdG5oj7G2B4o4KlyYZ9qpFixp1R829+sor9AvK7UcuyyArfedQ8CITsRjFCksciwo08IAPvagPu3w8tIP6Si7jgr7YtwvgNHIrYwGa7v51zk6Hr+Di8YKcwd5IlZ+lCRWR2fdyEoYTXq6m4atNwdv5mhTiYWonT//1FfSx0U2jjcmUoZ00OnpfUuGH6T5Hyb6sVnrnqnhfrDSojdWj464jkvztfp/XKjhwZBfib/gsvsNCKiY2A==)
+
 As always, I am open to any feedback. If there is something I can do to better explain the code or other ways to refactor my logic to optimize further, by all means please reach out!
 
 See you in the next one!
